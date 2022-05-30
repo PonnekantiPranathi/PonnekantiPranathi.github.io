@@ -1,9 +1,9 @@
 Ponnekanti Pranathi personal page
 
-Ponnekanti Pranathi
-===================
+# Ponnekanti Pranathi
 
-![Ponnekanti Pranathi image](C:\Users\prana\Documents\GitHub\PonnekantiPranathi.github.io\img\Ponnekanti Pranathi image.jpeg)
+
+![Ponnekanti Pranathi image](Ponnekanti Pranathi image.jpeg)
 
 * * *
 
@@ -14,34 +14,19 @@ My hobbies are watching telivision, listening to music, playing games like badmi
 
 * * *
 
-Education
----------
+## **Education**
+| Year of graduation | Degree | Institution |
+| :------------------: | :------: | -------|
+| 2025 | B.Tech | Indian Institute of Technology Goa |
+| 2021 | 12th standard or equivalent | Narayana Educational Institutions,Nidamanuru |
+| 2019 | 10th standard or equivalent | St.Johns English Medium School,Tenali|
 
-Year of graduation
 
-Degree
 
-Institution
 
-2025
 
-B.Tech
 
-Indian Institute of Technlogy Goa
 
-2021
-
-12th standard or equivalent
-
-Narayana Educational Institutions,Nidamanuru
-
-2019
-
-10th standard or equivalent
-
-St.Johns English Medium School,Tenali
-
-* * *
 
 1st-year Courses @ IIT Goa
 --------------------------
@@ -76,14 +61,4 @@ St.Johns English Medium School,Tenali
 Extracurricular activities - My Hobbies
 ---------------------------------------
 
-![](C:\Users\prana\Downloads\Enjoying with family.jfif)
-
-![](C:\Users\prana\Downloads\Friends.jpg)
-
-![](C:\Users\prana\Downloads\Music.jfif)
-
-![](C:\Users\prana\Downloads\Nature.png)
-
-![](C:\Users\prana\Downloads\Playing Badminton.jpg)
-
-![](C:\Users\prana\Downloads\watching television.jpg)
+My hobbies are watching telivision, playing badminton, spending time with friends and family, travelling in the nature, listening to music etc. I also play kho-kho and relay race in which I used to get prizes in my school life. I got the best outgoing student of the year 2019 in my school life which made my parenst really proud. And getting into an IIT is a dream come true.
